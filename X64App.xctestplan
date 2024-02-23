@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "23C8E54C-4972-43DE-BC3F-85BE34EE6CB3",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:X64Framewrok.xcodeproj",
+        "identifier" : "156DEB562B88A5600041849B",
+        "name" : "X64AppTests"
+      }
+    }
+  ],
+  "version" : 1
+}
